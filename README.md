@@ -4,6 +4,13 @@ Comparative Performance Analysis of DJIA and Spotify (2019–2025): Trends, Vola
 
 Conducted a comprehensive case study on the performance of the Dow Jones Industrial Average (DJIA) in comparison to Spotify (SPOT) over a five-year period (2019–2025). Analyzed daily adjusted stock prices, incorporating dividends and stock splits, to assess market trends, volatility, and relative performance. Applied statistical and financial analysis techniques to evaluate correlations, investment implications, and broader market influences.
 
+
+![image](https://github.com/user-attachments/assets/fb80bb19-8add-485d-bea7-f0ffc6d9cb4b)
+
+
+
+
+
 DJIA and SPOTIFY Stock Analysis Report
 Author - Satya
 Guidance by Professor – Dr Chen
